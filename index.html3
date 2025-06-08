@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>تحلیل هفتگی - M&W Trading</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <ul class="nav-links">
+        <li><a href="index.html">خانه</a></li>
+        <li><a href="free-courses.html">آموزش رایگان</a></li>
+        <li><a href="paid-courses.html">آموزش پولی</a></li>
+        <li><a href="weekly-analysis.html" class="active">تحلیل هفتگی</a></li>
+        <li><a href="blog.html">وبلاگ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="analysis-section">
+      <h1>تحلیل‌های هفتگی بازار</h1>
+      <div class="analysis-card">
+        <h3>تحلیل هفته اول خرداد ۱۴۰۴</h3>
+        <p>بررسی روند کلی بازار و فرصت‌های معاملاتی</p>
+        <video controls>
+          <source src="videos/weekly-analysis-1.mp4" type="video/mp4" />
+          مرورگر شما از ویدئو پشتیبانی نمی‌کند.
+        </video>
+      </div>
+      <div class="analysis-card">
+        <h3>تحلیل هفته دوم خرداد ۱۴۰۴</h3>
+        <p>تحلیل حرکت جفت ارزها و شاخص‌ها</p>
+        <video controls>
+          <source src="videos/weekly-analysis-2.mp4" type="video/mp4" />
+          مرورگر شما از ویدئو پشتیبانی نمی‌کند.
+        </video>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="bio">
+      <h3>Miss_Trader</h3>
+      <p>
+        با بیش از ده سال تجربه در بازارهای مالی و تخصص در ترید فارکس، Miss_Trader
+        با اشتیاقی بی‌پایان به آموزش، همواره در تلاش است تا دانش و مهارت‌های خود را به دیگران منتقل کند.
+        او بنیان‌گذار مفهومی نوآورانه در آموزش ترید به نام M&W است و باور دارد که هر تریدر با آموزش درست و ابزار مناسب می‌تواند به موفقیت برسد.
+      </p>
+    </div>
+    <p class="copyright">© 2025 M&W Trading. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
