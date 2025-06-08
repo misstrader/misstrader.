@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>آموزش رایگان - M&W Trading</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <ul class="nav-links">
+        <li><a href="index.html">خانه</a></li>
+        <li><a href="free-courses.html" class="active">آموزش رایگان</a></li>
+        <li><a href="paid-courses.html">آموزش پولی</a></li>
+        <li><a href="weekly-analysis.html">تحلیل هفتگی</a></li>
+        <li><a href="blog.html">وبلاگ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="courses-section">
+      <h1>دوره‌های آموزش رایگان</h1>
+      <div class="course-cards">
+        <div class="course-card">
+          <h3>مبانی فارکس</h3>
+          <p>آشنایی با بازار فارکس و اصول اولیه ترید</p>
+          <a href="#" class="btn">مشاهده ویدئوها</a>
+        </div>
+        <div class="course-card">
+          <h3>تحلیل تکنیکال مقدماتی</h3>
+          <p>یادگیری نمودارها، کندل‌ها و اندیکاتورهای پایه</p>
+          <a href="#" class="btn">مشاهده ویدئوها</a>
+        </div>
+        <div class="course-card">
+          <h3>مدیریت ریسک</h3>
+          <p>آموزش روش‌های کنترل ریسک در معاملات</p>
+          <a href="#" class="btn">مشاهده ویدئوها</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="bio">
+      <h3>Miss_Trader</h3>
+      <p>
+        با بیش از ده سال تجربه در بازارهای مالی و تخصص در ترید فارکس، Miss_Trader
+        با اشتیاقی بی‌پایان به آموزش، همواره در تلاش است تا دانش و مهارت‌های خود را به دیگران منتقل کند.
+        او بنیان‌گذار مفهومی نوآورانه در آموزش ترید به نام M&W است و باور دارد که هر تریدر با آموزش درست و ابزار مناسب می‌تواند به موفقیت برسد.
+      </p>
+    </div>
+    <p class="copyright">© 2025 M&W Trading. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
